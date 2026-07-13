@@ -80,7 +80,7 @@ export default function Home() {
         </a>
       </section>
       <footer className="wrap">
-        <span>© 2026 YUTA NAGASHIMA</span><span>FREELANCE SYSTEM ENGINEER</span>
+        <span>© 2026 YN</span><span>FREELANCE SYSTEM ENGINEER</span>
       </footer>
     </main>
   );
