@@ -69,7 +69,7 @@ export default function Home() {
       <section className="contact wrap section reveal" id="contact">
         <p className="section-no">03 / CONTACT</p>
         <div><h2>一緒に、次の<br /><em>一歩を。</em></h2><p>ご相談・お仕事のご依頼は、お気軽にお問い合わせください。</p></div>
-        <a className="mail" href="https://mail.google.com/mail/?view=cm&fs=1&to=thirteen.devils1031%40gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Gmailでお問い合わせ" title="Gmailでお問い合わせ">
+        <a className="mail" href="https://x.com/Stylen_AI" target="_blank" rel="noopener noreferrer" aria-label="Xを開く" title="Xを開く">
           <svg className="gmail-icon" viewBox="0 0 24 24" aria-hidden="true">
             <path fill="#EA4335" d="M3 6.8v10.4l5.7-5.2L3 6.8Z" />
             <path fill="#34A853" d="M15.3 12 21 17.2V6.8L15.3 12Z" />
